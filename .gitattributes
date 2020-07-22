@@ -1,4 +1,10 @@
-*.java linguist-language=JAVA
+*.java linguist-language=Java
+*.md linguist-language=Java 
+*.yml linguist-language=Java 
+*.xml linguist-language=Java
+*.sql linguist-language=Java
+*.properties linguist-language=Java
+*.jsp linguist-language=Java
 *.js linguist-language=HTML
 *.css linguist-language=HTML
 *.html linguist-language=HTML
